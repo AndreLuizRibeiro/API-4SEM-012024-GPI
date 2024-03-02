@@ -22,12 +22,12 @@ Este semestre estamos prestando consultoria para uma empresa no ramo
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 11/03/2024 | a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 27/03/2024 | a fazer | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  15/04/2024 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 06/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 03/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|Feira de Soluções| 24/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Micro Certificações
 <p align="center">
@@ -35,14 +35,13 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%201/imagem/APRENDIZAGEM%20POR%20PROJETO%20INTEGRADO%20(1).jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+
 
 # Funcionalidades e Demonstrações das Sprints
 
@@ -122,7 +121,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -130,12 +128,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Mooble Mobly | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -145,19 +145,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 </details>
 
 
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Danielle Vieira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| André Antunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Alann Aluir | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Debora Valente | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Ronilson Goulart | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Vitor Fernando | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|

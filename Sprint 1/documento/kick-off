@@ -51,6 +51,26 @@ Simulação e Otimização: Utilize softwares de simulação para testar diferen
 Implementação e Monitoramento: Implemente as mudanças sugeridas no plano de PPCP e acompanhe de perto os resultados. Faça ajustes conforme necessário para garantir o sucesso contínuo.
 
 
+MRP (Material Requirements Planning): Um sistema de planejamento de materiais que ajuda a determinar quando e quanto de cada material é necessário para a produção, com base nas ordens de produção e nos níveis de estoque.
+
+ERP (Enterprise Resource Planning): Uma solução de software integrada que permite o gerenciamento de todos os aspectos do negócio, incluindo finanças, recursos humanos e, é claro, produção. Isso pode incluir módulos específicos para PCP.
+
+Sistemas de APS (Advanced Planning and Scheduling): Esses sistemas vão além do MRP, considerando não apenas materiais, mas também capacidade de produção, restrições de recursos e tempo, para criar planos de produção mais precisos e eficientes.
+
+Lean Manufacturing Tools (Ferramentas de Manufatura Enxuta): Isso inclui técnicas como Kaizen, 5S, Kanban e Value Stream Mapping, que visam eliminar desperdícios, reduzir lead times e otimizar o fluxo de produção.
+
+Six Sigma: Uma metodologia focada na melhoria da qualidade e na redução da variabilidade dos processos de produção.
+
+Teoria das Restrições (Theory of Constraints - TOC): Uma abordagem que identifica e gerencia as restrições ou gargalos em um processo de produção, visando maximizar a eficiência global.
+
+Sistemas de Monitoramento e Controle de Produção: Ferramentas que permitem o acompanhamento em tempo real do desempenho da produção, como sistemas SCADA (Supervisory Control and Data Acquisition) ou MES (Manufacturing Execution Systems).
+
+Simulação de Processos: Softwares de simulação que permitem modelar e testar diferentes cenários de produção, ajudando a identificar gargalos e otimizar o fluxo de trabalho.
+
+Gestão da Cadeia de Suprimentos (Supply Chain Management): Ferramentas e técnicas para otimizar o fluxo de materiais e informações ao longo de toda a cadeia de suprimentos, desde os fornecedores até os clientes.
+
+Ferramentas de Análise de Dados e Business Intelligence: Utilização de dados históricos e em tempo real para análise e tomada de decisão, usando ferramentas como Business Intelligence (BI), análise preditiva e análise de Big Data.
+
 
 
 Reunião Inicial: Comece com uma reunião para entender as necessidades específicas da Freudenberg em relação ao PPCP. Questione sobre os principais desafios enfrentados atualmente, metas de produção, preocupações com custos e prazos, entre outros.

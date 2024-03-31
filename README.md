@@ -46,9 +46,7 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 1](https://img.youtube.com/vi/ZRo3xbZDwVM/0.jpg)](https://youtu.be/ZRo3xbZDwVM)
 
 
 ## Sprint 2

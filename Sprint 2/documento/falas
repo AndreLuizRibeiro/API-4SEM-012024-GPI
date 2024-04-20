@@ -1,0 +1,49 @@
+A notação de modelagem de processos de negócios (BPMN) é uma representação gráfica padrão dos processos e fluxos de trabalho de uma empresa. É um fluxograma que representa os participantes, as opções e o direcionamento desses processos por meio de gráficos e imagens padronizadas. Assim dando forma aos processos da empresa.
+Como podemos ver na imagem.
+Algumas das vantagens que a ferramenta pode proporcionar é a representação visual dos processos de negócios, pontos de melhoria e oportunidades de automação. aJUDANDO TAMBEM NA COMPREENSÃO MAIS CLARA DOS PROCESSOS 
+BPMN serve como uma documentação detalhada dos processos de negócios, o que é essencial para o treinamento de funcionários, auditorias e conformidade regulatória.
+Com BPMN, os processos podem ser analisados em detalhes para identificar áreas de ineficiência ou oportunidades de otimização.
+Com modelos claros e detalhados dos processos de negócios, os líderes empresariais podem tomar decisões mais informadas e estratégicas. Isso inclui identificar oportunidades de melhoria, alocar recursos de forma mais eficaz e definir metas realistas. cONSEQUENTEMENTE AUMENTANDO A EFICIENCIA OPERACIONAL.
+
+
+A padronização de processos é o processo de estabelecer um conjunto consistente de métodos, procedimentos e práticas para executar atividades específicas dentro de uma organização. Isso envolve criar um modelo ou padrão que descreve como um processo deve ser realizado, garantindo consistência e uniformidade em toda a organização. alguns aspectos da padronização de processos incluem:
+ identificar e documentar os passos específicos que devem ser seguidos para realizar uma determinada atividade ou alcançar um resultado desejado. Definição dos padrões e critérios que devem ser atendidos ao executar o processo. Criação de documentação clara e acessível que descreva os procedimentos e padrões a serem seguidos.
+
+e para realizar essa documentação é necessario realizar a identificação de documentação dos processos, indentificando os porcessos chaves e detalhando suas etapas
+em seguida é feito a analise critica de cada processo para poder identificar pontos de melhoria, e tambem estabelecendo os padroes de desempenho ,facilitando a monitoria dos processos.
+para assim realizar uma emplementação gradual das mudnças e o trainamento necessario dos colaboradores.
+e por ultimo realizar o monitoramento e controle continuo dos padroes estabelecidos,
+ferramentas de gestão de processos são muito uteis para esse tipo de tarefa
+
+O Google Sheets é uma ferramenta de planilhas online oferecida pelo Google. Ele serve para criar, editar e compartilhar planilhas de forma colaborativa pela internet. ele permite a colaboração em tempo real permitindo que seja acessada e editada simultaneamente, pode ser acessada de qualquer lugar e dispositivo, por ser uma solução em nuvem, sendo possivel a automação de tarefas repetitivas atraves do google apps script, integrando tambem graficos dinamicos e tabelas interativas, que facilitam na analise dos dados.
+
+e para isso é preciso realizar a coleta dos dados relevantes para as analises, 
+a organização desses dados de uma forma mais clara. 
+realizar a analise inicial para identificar padroes e tendencias, assim sera possivel escolher um modelo de previsão que masi se adeque aos dados
+para assim poder implementar o modelo escolhido, em seguida deve se validar esse modelo para ajudar a determinar a precisão do modelo.
+com isso sera possivel realizar previsões futuras, ao final deve-se avaliar o desempenho das previsões e arealizar os ajustes necessarios. 
+a implementação de uma análise de previsão usando o Google Sheets pode ajudar a empresa a operar de maneira mais eficiente, tomar decisões mais informadas e se adaptar melhor às condições do mercado, contribuindo para seu sucesso a longo prazo
+
+
+Tabelas dinâmicas são ferramentas poderosas de análise de dados disponíveis em softwares de planilhas, como Microsoft Excel e Google Sheets. Elas permitem resumir, analisar, explorar e visualizar grandes volumes de dados de maneira eficiente e flexível, 
+
+As tabelas dinâmicas permitem agregar e resumir grandes conjuntos de dados em um formato mais compacto e gerenciável. permitem aos usuários alterar a organização e a estrutura dos dados com facilidade, é possivel segmentar os dados em uma tabela dinâmica com base em diferentes variáveis, como datas, categorias, regiões, etc. Isso permite analisar os dados em diferentes perspectivas e identificar padrões ou tendências específicas. é possivel filtrar os dados com base em critérios específicos e classificá-los de várias maneiras para obter insights relevantes. Além de simplesmente resumir os dados, as tabelas dinâmicas permitem realizar cálculos personalizados, como somas, médias, contagens, etc., em dados agregados. As tabelas dinâmicas podem ser combinadas com gráficos e visualizações para representar visualmente os dados de forma clara e compreensível. Isso ajuda na identificação de padrões, tendências e insights nos dados. sendo assim uma ferramenta poderosa para análise de dados, pois permitem explorar, analisar e visualizar grandes conjuntos de dados de maneira eficiente e flexível, ajudando na tomada de decisões informadas e na identificação de oportunidades de melhoria.
+os dados a serem usados podem incluir parametros de produção, testes de qualidade, feed back de clientes, dados de estoque entre outros. eles devem ser ordenados para que seja possivel a criação e personalização dos graficos dinamicos, que se adequem melhor aos dados, como grafico de barras, pizza, linha de tendencia entre outros, para se ter graficos 100% funcionais é preciso realizar atulizações nos dados e manutenção nos graficos e tabelas. A utilização eficaz dos recursos de gráficos e tabelas dinâmicas do Microsoft Excel pode ser uma vantagem significativa para a empresa, assim aprimorando as tomadas de descisões.
+
+
+
+KPIs (Key Performance Indicators) são indicadores-chave de desempenho que ajudam as organizações a avaliar o progresso em direção aos seus objetivos estratégicos. Esses indicadores são quantificáveis, mensuráveis ​​e refletem o sucesso em alcançar metas específicas. 
+KPIs devem ser específicos e claros, de modo que sua definição e medição não deixem espaço para interpretações ambíguas. devem ser mensuráveis ​​e quantificáveis, o que significa que devem ser expressos em números ou proporções que podem ser facilmente monitorados e avaliados ao longo do tempo.devem ser selecionados com base em sua capacidade de refletir o desempenho real e impactar os resultados. e devem ser definidos levando em consideração o período de tempo relevante e o contexto operacional da organização.
+
+ ALguns exemplos de kpi's incluem
+
+tempo de ciclo de produção: Refere-se ao tempo necessário para completar um pedido, desde o momento em que é recebido até a entrega do produto acabado. 
+Taxa de Ocupação de Máquinas: Indica a proporção de tempo em que uma máquina está sendo utilizada em relação ao tempo total disponível.
+Taxa de Entrega no Prazo: Mede a proporção de pedidos entregues aos clientes dentro do prazo prometido em relação ao total de pedidos.
+Taxa de Retrabalho: Indica a proporção de produtos que precisam ser retrabalhados devido a defeitos ou falhas em relação ao total de produtos produzidos. 
+Utilização de Matérias-Primas: Mede a eficiência na utilização de matérias-primas durante o processo de produção.
+
+Ajudando na identificaçãode gargalos na produção, otimizando os recursos da produção, melhorando a pontualidade das entregas e reduzindo os custos associados com a produção
+
+
+

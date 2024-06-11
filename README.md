@@ -55,13 +55,7 @@ Sprint | Previsão | Status| Histórico|
 [![SPRINT 3](https://img.youtube.com/vi/iMJGDC9-5mg/0.jpg)](https://youtu.be/iMJGDC9-5mg)
 
 ## Sprint 4
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 4](https://img.youtube.com/vi/iql2r7wSRdU/0.jpg)](https://youtu.be/iql2r7wSRdU)
 
 
 ## Tecnologias Utilizadas

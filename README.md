@@ -96,10 +96,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 [X] Utilização da ferramenta VSM
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+[X] Apresentação da ferramenta BPMN
+[X] Apresentação da ferramenta do Google Sheet
+[X] Indicação de alguns KPI's
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+[X] Fizemos o documento BPMN
+[X] Controle de planilhas
+[X] Nova proposta de layout
+[X] Apresentamos empresas de reciclagem de refugo
       
 ## Sprint 4 - Operacionalização
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist

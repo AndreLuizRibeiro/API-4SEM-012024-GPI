@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-
+O principal objetivo é entender e atender às necessidades específicas do cliente, fornecendo soluções que resolvam seus problemas ou melhorem seus processos.
 
 # Funcionalidades e Demonstrações das Sprints
 

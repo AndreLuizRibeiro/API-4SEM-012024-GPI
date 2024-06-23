@@ -75,8 +75,15 @@ O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programa
   - Novo Layout
   - Manufatura aditiva
   - Reciclagem interna
+    
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+ - Excel
+ - Word
+ - Miro
+ - Github
+ - Movie maker
+ - Sketchup
+ - Canva
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API

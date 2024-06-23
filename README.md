@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-O principal objetivo é entender e atender às necessidades específicas do cliente, fornecendo soluções que resolvam seus problemas ou melhorem seus processos.
+O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programação e Controle da Produção (PPCP) na empresa, utilizando metodologias ágeis e ferramentas tecnológicas avançadas, visando aumentar a eficiência operacional, reduzir custos, melhorar a satisfação dos clientes e garantir um alinhamento contínuo entre a capacidade de produção e a demanda do mercado.
 
 # Funcionalidades e Demonstrações das Sprints
 

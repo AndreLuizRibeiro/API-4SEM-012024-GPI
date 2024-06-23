@@ -87,7 +87,7 @@ O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programa
  - Google Meet
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+O mindset digital da nossa equipe foi essencial para conduzir a empresa em sua jornada de transformação. Com foco na inovação, no uso estratégico de tecnologias avançadas e na promoção de uma cultura de inovação.
 
 # Cronograma das Sprints
 

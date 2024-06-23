@@ -84,6 +84,7 @@ O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programa
  - Movie maker
  - Sketchup
  - Canva
+ - Google Meet
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API

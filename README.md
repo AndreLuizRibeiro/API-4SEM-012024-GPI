@@ -99,12 +99,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Backlog do produto
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Burndown
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 1 - Concepção

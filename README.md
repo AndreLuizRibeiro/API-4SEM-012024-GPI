@@ -107,8 +107,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 [X] Apresentamos empresas de reciclagem de refugo
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+[X] Feito diagrama BPMN
+[X] Criamos o novo layout
+[X] Proposta de reciclagem interna
 
 # Competências desenvolvidas
 

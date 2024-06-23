@@ -61,7 +61,17 @@ O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programa
 ## Tecnologias Utilizadas
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
-
+### Produto 
+- Sprint 1
+  - Estratégias Propostas
+- Sprint 2
+  - WhatsApp
+  - Shopee
+- Sprint 3
+  - Instagram
+  - Novo fornecedor
+- Sprint 4
+  - Delivery
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
   
@@ -77,39 +87,38 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
 </p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
-
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
 
 ## Sprint 1 - Concepção
-[X] Análise dos problemas
-[X] Apresentação das ferramentas
-[X] Utilização da ferramenta VSM
+
+- [X] Análise dos problemas
+- [ ] Entendimento do cenario
+- [X] Apresentação das ferramentas
+- [X] Utilização da ferramenta VSM
 
 ## Sprint 2 - Desenvolvimento do Projeto
-[X] Apresentação da ferramenta BPMN
-[X] Apresentação da ferramenta do Google Sheet
-[X] Indicação de alguns KPI's
+- [X] Ferramenta BPMN
+- [X] Ferramenta do Google Sheet
+- [X] Indicação KPI's
       
 ## Sprint 3 - Implementação
-[X] Fizemos o documento BPMN
-[X] Controle de planilhas
-[X] Nova proposta de layout
-[X] Apresentamos empresas de reciclagem de refugo
+- [X] Documento BPMN
+- [X] Controle de planilhas
+- [X] Nova proposta de layout
+- [X] Empresas de reciclagem de refugo
       
 ## Sprint 4 - Operacionalização
-[X] Feito diagrama BPMN
-[X] Criamos o novo layout
-[X] Proposta de reciclagem interna
+- [X] Diagrama BPMN
+- [X] Novo layout
+- [X] Proposta de reciclagem interna
+- [x] Manufatura Aditiva
 
 # Competências desenvolvidas
 

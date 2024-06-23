@@ -91,7 +91,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+[X] Análise dos problemas
+[X] Apresentação das ferramentas
+[X] Utilização da ferramenta VSM
 
 ## Sprint 2 - Desenvolvimento do Projeto
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist

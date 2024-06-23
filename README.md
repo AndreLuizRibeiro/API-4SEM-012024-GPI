@@ -60,18 +60,21 @@ O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programa
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
-### Produto 
 - Sprint 1
   - Estratégias Propostas
+  - ferramenta VSM
 - Sprint 2
-  - WhatsApp
-  - Shopee
+  - Ferramentas de gestão
+  - KPI's
 - Sprint 3
-  - Instagram
-  - Novo fornecedor
+  - Ferramenta BPMN
+  - Controle de planilhas
+  - Contatos de empresas parceiras
 - Sprint 4
-  - Delivery
+  - Diagrama BPMN
+  - Novo Layout
+  - Manufatura aditiva
+  - Reciclagem interna
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
   
@@ -99,7 +102,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 1 - Concepção
 
 - [X] Análise dos problemas
-- [ ] Entendimento do cenario
+- [x] Entendimento do cenario
 - [X] Apresentação das ferramentas
 - [X] Utilização da ferramenta VSM
 

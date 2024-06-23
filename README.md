@@ -62,7 +62,7 @@ O objetivo geral deste trabalho é otimizar o processo de Planejamento, Programa
 ### Produto 
 - Sprint 1
   - Estratégias Propostas
-  - ferramenta VSM
+  - Ferramenta VSM
 - Sprint 2
   - Ferramentas de gestão
   - KPI's

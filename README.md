@@ -94,18 +94,20 @@ O mindset digital da nossa equipe foi essencial para conduzir a empresa em sua j
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/13)
 
 
 ## Backlog do produto
 <p align="center">
- <img src="" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/cronograma.png" width="100%"/>
 </p>
 
 ## Burndown
 <p align="center">
- <img src="" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/estimado.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%204/imagem/realizado.png" width="100%"/>
 </p>
+
 
 ## Sprint 1 - Concepção
 

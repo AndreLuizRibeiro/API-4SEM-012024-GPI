@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Projeto (API) 
 
-Este semestre estamos prestando consultoria para uma empresa no ramo 
+Este semestre estamos prestando consultoria para uma empresa que produz filtros aotomotivos, para auxiliar na melhoria dos processos realcionados ao planejemnto e controle da produção.
 
 
 Sprint | Previsão | Status| Histórico|
@@ -27,11 +27,11 @@ Sprint | Previsão | Status| Histórico|
 |02|  15/04/2024 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%202/documento/APRENDIZAGEM%20POR%20PROJETO%20INTEGRADO.pptx) | 
 |03| 06/05/2024 | concluido|[Ver Relatório](https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%203/documento/APRENDIZAGEM%20POR%20PROJETO%20INTEGRADO.pptx) | 
 |04| 03/06/2024 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%204/documento/APRENDIZAGEM%20POR%20PROJETO%20INTEGRADO.pptx) |
-|Feira de Soluções| 24/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções| 24/06/2024 | concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN" width="40%"/>
 </p>
 
 # Equipe
